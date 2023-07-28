@@ -1,11 +1,11 @@
 {
-  "name": "typeassert",
+  "name": "castassert",
   "version": "1.0.0",
   "description": "A bunch of JS assert / cast utils.",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
   "module": "build/module/index.js",
-  "repository": "https://github.com/YOUR_GITHUB_USER_NAME/typeassert",
+  "repository": "https://github.com/piotrszyma/castassert",
   "license": "MIT",
   "keywords": [],
   "scripts": {
